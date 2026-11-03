@@ -1,0 +1,42 @@
+{
+  "name": "v15a",
+  "focal_length": 90,
+  "max_aperture": 3.1,
+  "fov": 47,
+  "elements": [
+    {
+      "code": "L1198",
+      "type": "ACH",
+      "diameter": 34.2,
+      "edge_thickness": 23.75,
+      "spacing": 51.9
+    },
+    {
+      "code": "L14523",
+      "type": "ACH",
+      "diameter": 35.0,
+      "mounted_od": 44.4,
+      "edge_thickness": 12.6,
+      "spacing": 25.9
+    },
+    {
+      "code": "L10587",
+      "type": "ACH",
+      "diameter": 38.0,
+      "edge_thickness": 7.0,
+      "spacing": 0.9
+    }
+  ],
+  "stop": {
+    "depth": 8.6,
+    "hole_diameters": [
+      20.25,
+      14.46,
+      10.12,
+      7.36,
+      5.06,
+      3.68
+    ]
+  },
+  "inf_offset": -14.0
+}

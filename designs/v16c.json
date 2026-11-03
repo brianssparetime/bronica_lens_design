@@ -1,0 +1,40 @@
+{
+  "name": "v16c",
+  "focal_length": 98,
+  "max_aperture": 3.2,
+  "fov": 43,
+  "elements": [
+    {
+      "code": "L1198",
+      "type": "ACH",
+      "diameter": 34.2,
+      "edge_thickness": 23.75,
+      "spacing": 87.907
+    },
+    {
+      "code": "L11561",
+      "type": "ACH",
+      "diameter": 38.5,
+      "edge_thickness": 7.5,
+      "spacing": 51.907
+    },
+    {
+      "code": "L14929",
+      "type": "ACH",
+      "diameter": 38.6,
+      "edge_thickness": 6.3,
+      "spacing": 13.907
+    }
+  ],
+  "stop": {
+    "depth": 21.857,
+    "hole_diameters": [
+      18.43,
+      13.17,
+      9.22,
+      6.7,
+      4.61,
+      3.35
+    ]
+  }
+}

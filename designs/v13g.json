@@ -1,0 +1,41 @@
+{
+  "name": "v13g",
+  "focal_length": 103,
+  "max_aperture": 3,
+  "fov": 42,
+  "elements": [
+    {
+      "code": "L11018",
+      "type": "NMN",
+      "diameter": 40.0,
+      "edge_thickness": 4.3,
+      "spacing": 51.787
+    },
+    {
+      "code": "L11561",
+      "type": "ACH",
+      "diameter": 38.5,
+      "edge_thickness": 7.5,
+      "spacing": 27.787
+    },
+    {
+      "code": "eb-k9-175",
+      "type": "PCX",
+      "diameter": 50.8,
+      "edge_thickness": 2.0,
+      "spacing": 3.787
+    }
+  ],
+  "stop": {
+    "depth": 15.737,
+    "hole_diameters": [
+      24.54,
+      17.53,
+      12.27,
+      8.92,
+      6.13,
+      4.46
+    ]
+  },
+  "inf_offset": 3.0
+}

@@ -1,0 +1,40 @@
+{
+  "name": "v14h",
+  "focal_length": 95,
+  "max_aperture": 3,
+  "fov": 45,
+  "elements": [
+    {
+      "code": "L11018",
+      "type": "NMN",
+      "diameter": 40.0,
+      "edge_thickness": 4.3,
+      "spacing": 68.621
+    },
+    {
+      "code": "L10587",
+      "type": "ACH",
+      "diameter": 38.0,
+      "edge_thickness": 7.0,
+      "spacing": 30.621
+    },
+    {
+      "code": "eb-k9-175",
+      "type": "PCX",
+      "diameter": 50.8,
+      "edge_thickness": 2.4,
+      "spacing": -3.379
+    }
+  ],
+  "stop": {
+    "depth": 9.371,
+    "hole_diameters": [
+      21.05,
+      15.04,
+      10.53,
+      7.65,
+      5.26,
+      3.83
+    ]
+  }
+}

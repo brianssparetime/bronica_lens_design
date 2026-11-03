@@ -1,0 +1,41 @@
+{
+  "name": "v14a",
+  "focal_length": 101,
+  "max_aperture": 2.9,
+  "fov": 42,
+  "elements": [
+    {
+      "code": "L7325",
+      "type": "NMN",
+      "diameter": 52.0,
+      "edge_thickness": 6.2,
+      "spacing": 46.489
+    },
+    {
+      "code": "L11561",
+      "type": "ACH",
+      "diameter": 38.5,
+      "edge_thickness": 7.5,
+      "spacing": 26.489
+    },
+    {
+      "code": "amz-150",
+      "type": "PCX",
+      "diameter": 50.0,
+      "edge_thickness": 2.0,
+      "spacing": 4.489
+    }
+  ],
+  "stop": {
+    "depth": 14.439,
+    "hole_diameters": [
+      23.78,
+      16.99,
+      11.89,
+      8.65,
+      5.95,
+      4.32
+    ]
+  },
+  "inf_offset": 5.0
+}
