@@ -6,7 +6,9 @@ This repo focuses on the python tools I built for the optical design.  The lens 
 
 ## Disclaimer
 
-This is NOT a good way to make a lens.  I'm using 1930s optical formulas (paraxial thin-lens propagation and third-order Seidel sums), and ignoring pretty much all modern ray-tracing abilities.  There are real, impassable limits to what can be modeled with this approach, leaving more to guesswork and trial and error than I would like.
+**This is NOT a good way to make a lens.**  
+
+I'm using 1930s optical formulas (paraxial thin-lens propagation and third-order Seidel sums), and ignoring pretty much all modern ray-tracing abilities.  There are real, impassable limits to what can be modeled with this approach, leaving more to guesswork and trial and error than I would like.
 
 Given those issues, why would anyone in their right mind do it?  Ray tracing requires reasonably precise measurements of the radius of curvature of each element face, and that in turn requires special equipment.
 
