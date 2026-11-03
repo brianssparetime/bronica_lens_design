@@ -1,0 +1,21 @@
+# local working material, never published
+working-files/
+
+# assistant tooling
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.mcp.json
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# backups and archives
+*.bak*
+*.tar.gz
+
+# os
+.DS_Store
